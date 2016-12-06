@@ -1,1 +1,94 @@
 
+body{/* lights: */
+	background: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.icons{
+	margin-left: 48px;
+	margin-right: 20%;
+	margin-bottom: 20px;
+	padding: 20px;
+
+	/* Rectangle 10: */
+background: rgba(255,255,255,0.30);
+border: 0px solid #979797;
+padding-left:10px;
+padding-right:30px;
+position:absolute;
+bottom:-20px;
+margin-bottom:-10px;
+height: 72px;
+width: 50%;
+}
+
+.icons a{ /* Icon Position */
+	padding:10px;
+	padding-right: 23px;
+	border-top: 20px;
+}
+
+.navbar{/* Rectangle 21: */
+background: #000000;
+background-image: linear-gradient(-180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+border: 0px solid #979797;
+text-align:justify;
+padding-left:4px;
+padding-right: 0px;
+position:absolute;
+bottom:-237px;
+width:100%;
+margin: -1%;
+}
+
+.navbar ul li{
+
+list-style-type:none;
+text-align:center;
+display:inline;
+}
+
+.navbar ul li a{/*Text Information: */
+font-family: Helvetica;
+font-size: 16px;
+text-decoration: none;
+color: #FFFFFF;
+line-height: 35px;
+}
+
+
+.navbar ul li{/* Nav Bar Size: */
+ padding-top: 50px;
+ padding-right: 30px;
+ padding-bottom: 50px;
+ padding-left: 75px; 
+}
+
+h2{/* I’m JABARI,: */
+font-family: HelveticaNeue;
+font-size: 32.11px;
+color: #FFFFFF;
+line-height: 26px;
+text-indent: 60px;
+}
+
+h1{/* Hello,: */
+font-family: HelveticaNeue;
+font-size: 64.23px;
+color: #FFFFFF;
+line-height: 26px;
+text-indent: 60px;
+margin-bottom: 120px;
+}
+
+h2{/* A UX Designer & Deve: */
+font-family: HelveticaNeue;
+font-size: 32.11px;
+color: #FFFFFF;
+line-height: 107px;
+text-indent: 60px;
+margin-bottom: 120px;
+}
+
+
